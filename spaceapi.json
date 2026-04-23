@@ -1,0 +1,24 @@
+{
+  "api_compatibility": ["14", "15"],
+  "space": "Tokyo HackerSpace",
+  "logo": "https://github.com/TokyoHackerspace/THS_Promotional_Material/blob/master/Graphics/Logos/Standard/hslogo_square.png",
+  "url": "https://www.tokyohackerspace.jp/",
+  "location": {
+    "address": "Azalea Akasaka #102, 12-13, Akasaka 8-chome, Minato-ku, Tokyo, 107-0052, JAPAN",
+    "lon": 35.67035721260838
+    "lat": 139.73036183514466
+    "timezone": "Asia/Tokyo"
+    "country_code": "JP"
+    "hint": "Walk between the building and the brick fence to the back side. We are the door next to the entry stairs."
+  },
+  "contact": {
+    "email": "tokyohackerspace@gmail.com",
+    "twitter": "@tkohackerspace",
+    "facebook": "https://www.facebook.com/groups/86614272223",
+    "meetup": "https://www.meetup.com/tokyohackerspace/"
+  },
+  "projects": [
+    "https://github.com/TokyoHackerspace",
+    "https://github.com/TokyoHackerspace/Tokyo-HackerSpace-documentation/wiki"
+  ]
+}
