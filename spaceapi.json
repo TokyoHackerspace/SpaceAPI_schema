@@ -5,8 +5,8 @@
   "url": "https://www.tokyohackerspace.jp/",
   "location": {
     "address": "Azalea Akasaka #102, 12-13, Akasaka 8-chome, Minato-ku, Tokyo, 107-0052, JAPAN",
-    "lon": 35.67035721260838,
-    "lat": 139.73036183514466,
+    "lon": 139.73036183514466,
+    "lat": 35.67035721260838,
     "timezone": "Asia/Tokyo",
     "country_code": "JP",
     "hint": "Walk between the building and the brick fence to the back side. We are the door next to the entry stairs."
